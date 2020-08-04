@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  👋 Hey there i'm Prasanna Ranganathan
+</h1>
 
-<!--
-**stuxnet78/stuxnet78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/stuxnet78/stuxnet78/blob/master/prasanna.png" alt="banner that says Prasanna Ranganathan - Senior DevOps Engineer">I'm a Software Engineer. And I Practise DevOps and Continous Delivery.
 
 Here are some ideas to get you started:
 
